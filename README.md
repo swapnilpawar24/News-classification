@@ -1,4 +1,4 @@
-# News-classification
+
 # News Classification with Machine Learning
 
 This project aims to classify news articles as either fake or real using machine learning techniques. The dataset used for training and evaluation consists of fake and real news articles.
