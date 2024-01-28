@@ -19,8 +19,8 @@ News classification is a common natural language processing (NLP) task that invo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/news-classification.git
-   cd news-classification
+https://github.com/swapnilpawar24/News-classification.git
+cd News-classification
 
 ## Usage
 - Download the dataset:
